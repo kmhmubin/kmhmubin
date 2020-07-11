@@ -1,6 +1,6 @@
-### Hi there 👋
-![Cover](https://github.com/kmhmubin/kmhmubin/blob/master/hello.png)
+![Cover](https://github.com/kmhmubin/kmhmubin/blob/master/cover%20photo.png)
 
+### Hi there 👋
 <!--
 **kmhmubin/kmhmubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
