@@ -27,4 +27,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Choose A Programming Language Guide 2021](https://mubinsodyssey.com/how-to-choose-a-programming-language-guide-2021)
+- [Add Hashnode Blog On Google Search Console](https://mubinsodyssey.com/add-hashnode-blog-on-google-search-console)
+- [Install Google Analytics On Your Hashnode Blog](https://mubinsodyssey.com/install-google-analytics-on-your-hashnode-blog)
+- [Set Up Your Own Blog on Hashnode](https://mubinsodyssey.com/set-up-your-own-blog-on-hashnode)
 <!-- BLOG-POST-LIST:END --
