@@ -62,6 +62,10 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 <b>📊 This Week I Spent My Time On</b>
 
 <!--START_SECTION:waka-->
+```text
+Markdown   3 hrs 12 mins   ████████████████████▓░░░░   82.16 % 
+Python     41 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.51 % 
+```
 <!--END_SECTION:waka-->
 
 
