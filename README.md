@@ -47,6 +47,13 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 </p>
 
 <!-- Latest articles -->
-### Blogs posts
+### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<!-- Stats -->
+<h3>📈 My GitHub Stats </h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmhmubin&show_icons=true&locale=en&layout=compact" alt="kmhmubin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmhmubin&show_icons=true&locale=en" alt="kmhmubin" /></p>
+
