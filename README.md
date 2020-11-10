@@ -53,7 +53,12 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 
 ---
 <!-- Stats -->
-<h3>📈 Statistics </h3>
+<h3>📈 My Dev Statistics: </h3>
+
+<!-- waka time stats-->
+<b>📊 This Week I Spent My Time On</b>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- github stats -->
 <b>⚡ Github Stats</b>
