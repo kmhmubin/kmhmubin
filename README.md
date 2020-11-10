@@ -31,11 +31,13 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/dev.svg" alt="kmhmubin" height="30" width="30" /></a>
+
 <a href="https://twitter.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://fb.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/facebook.svg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://instagram.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://hashnode.com/@kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/hashnode.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://dev.to/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/dev.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://mubinsodyssey.com" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/blog-template.svg" alt="mubinsodyssey" height="30" width="30" /></a>
 </p>
 
