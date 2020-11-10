@@ -51,9 +51,15 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
 <!-- Stats -->
-<h3>📈 My GitHub Stats </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmhmubin&show_icons=true&locale=en&layout=compact" alt="kmhmubin" /></p>
+<h3>📈 Statistics </h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmhmubin&show_icons=true&locale=en" alt="kmhmubin" /></p>
+<!-- github stats -->
+<b>⚡ Github Stats</b>
+
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmhmubin&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmhmubin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
