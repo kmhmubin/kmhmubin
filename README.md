@@ -29,6 +29,15 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 - 📫 How to reach me **[Twitter](http://twitter.com/kmhmubin)**
 
 <!-- Connect with me -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/kmhmubin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kmhmubin" height="30" width="40" /></a>
+<a href="https://twitter.com/kmhmubin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kmhmubin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kmhmubin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kmhmubin" height="30" width="40" /></a>
+<a href="https://fb.com/kmhmubin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kmhmubin" height="30" width="40" /></a>
+<a href="https://instagram.com/kmhmubin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kmhmubin" height="30" width="40" /></a>
+<a href="/https://mubinsodyssey.com/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://mubinsodyssey.com/rss.xml" height="30" width="40" /></a>
+</p>
 
-
+![logo](https://cdn.jsdelivr.net/npm/@iconscout/unicons@3.0.3/svg/brand/dev.svg)
 
