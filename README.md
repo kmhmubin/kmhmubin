@@ -1,39 +1,25 @@
-![Cover](https://github.com/kmhmubin/kmhmubin/blob/master/cover%20photo.png)
+### Hi there 👋, I'm K M H Mubin
+#### Aspiring Full stack developer, UI designer and Technical Writer from Bangladesh
+![Aspiring Full stack developer, UI designer and Technical Writer from Bangladesh](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg)
 
-<p align="center">
-<a href="#contributing"><img alt="Contributions Welcomed" src="https://img.shields.io/badge/contributions-welcomed-blueviolet?style=for-the-badge&labelColor=black&logo=github"></a>  <a href="https://twitter.com/kmhmubin"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kmhmubin?color=g&label=kmhmubin&logo=twitter&style=for-the-badge"></a> <a href="https://codeeureka.com"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_color=orange&up_message=CodeEureka&url=https%3A%2F%2Fwww.codeeureka.com&labelColor=black"></a>
-</p>
+I'm Mubin, an aspiring full-stack web developer and UI designer from Bangladesh 🇧🇩. In my own time, I like to try out different technologies, write about them, and help out the developer community.
 
-<h2 align="center"> &ldquo;Follow your intuition, it will always lead you to the right destination.&rdquo; </h2>
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-### Hi there 👋 I'm Mubin
-
-- 🎓 Currently studying <strong>B.Sc in Computer Science and Engineering</strong>(Expected to pass out in <strong>July, 2021</strong>)
-  
-- 🕸 Practising <strong>Fullstack Web Development</strong>
-  
-- 💻 Trying to document my learnings on <strong><a href="https://codeeureka.com">Code Eureka</a></strong>
-  
-- 💬 Ask me about Web, IoT and software
-  
-- 📫 Reach me at <strong>[twitter](https://twitter.com/kmhmubin)</strong>
-  
-- ⚡ Let's Build something out of world
+- 🔭 I’m currently working on this page 
+- 🌱 I’m currently learning React, Python , ML & UI Design 
+- 💬 Ask me about Web Development & UI Design 
+- 📫 How to reach me: [Twitter](http://twitter.com/kmhmubin) 
+- ⚡ Fun fact: The person who inspires me most is Prophet Muhammad (ﷺ) 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kmhmubin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/kmhmubin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://mubinsodyssey.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kmhmubin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kmhmubin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kmhmubin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kmhmubin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mubinsodyssey.com)  
 
 
-<!--
-**kmhmubin/kmhmubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kmhmubin&show_icons=true)  
 
-Here are some ideas to get you started:
+![GitHub metrics](https://metrics.lecoq.io/kmhmubin)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kmhmubin)  
+
+![Profile views](https://gpvc.arturio.dev/kmhmubin)  
