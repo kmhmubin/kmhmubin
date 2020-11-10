@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/Ctz8pbq/Git-Hub-Profile-Cover.jpg)
+![Banner](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg)
 
 <!-- visitor counter -->
 <p align="center"> 
@@ -50,8 +50,8 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 ---
 
 <!-- Latest articles -->
-<h3>📕 Blog Posts</h3>
 
+### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
