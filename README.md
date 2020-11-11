@@ -169,6 +169,13 @@ Python     41 mins         ████▒░░░░░░░░░░░░�
       <a href="https://github.com/mincewords613">mincewords613</a>
     </td>
     <td align="center">
+      <a href="https://github.com/jaw8d">
+        <img src="https://avatars2.githubusercontent.com/u/64399939" width="100px;" alt="jaw8d"/>
+      </a>
+      <br />
+      <a href="https://github.com/jaw8d">Ashraful Alam Jawad</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/bograh">
         <img src="https://avatars2.githubusercontent.com/u/69661398" width="100px;" alt="bograh"/>
       </a>
