@@ -50,7 +50,7 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 
 <!-- Latest articles -->
 
-### 📕 Blog posts
+### 📕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [How To Choose A Programming Language Guide 2021](https://mubinsodyssey.com/how-to-choose-a-programming-language-guide-2021)
 - [Add Hashnode Blog On Google Search Console](https://mubinsodyssey.com/add-hashnode-blog-on-google-search-console)
