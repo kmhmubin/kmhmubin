@@ -76,7 +76,7 @@ Python     41 mins         ████▒░░░░░░░░░░░░�
 
 
 <!-- GitHub stats -->
-<b>⚡ My Dev Statistics</b>
+<b>⚡ My GitHub Statistics</b>
 
 <p>
 <!-- GitHub Stats -->
@@ -195,6 +195,10 @@ Python     41 mins         ████▒░░░░░░░░░░░░�
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
+
+---
+<b>Need inspiration for your own README? Check out Create A Badass GitHub Profile READMEs</b>
 
 ---
 <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/kmhmubin">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 😊 💜</em>
