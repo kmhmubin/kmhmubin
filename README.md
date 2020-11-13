@@ -198,7 +198,7 @@ Python     41 mins         ████▒░░░░░░░░░░░░�
 
 
 ---
-<b>Need inspiration for your own README? Check out Create A Badass GitHub Profile READMEs</b>
+<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="40"> <b>Need inspiration for your own README? Check out Create A Badass GitHub Profile READMEs</b>
 
 ---
-<em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/kmhmubin">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/kmhmubin">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 😊 💜</em>
