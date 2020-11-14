@@ -24,7 +24,7 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 
 - 📝 I regulary write articles on **[Mubin's Odysse](https://mubinsodyssey.com)**
 
-- 💬 Ask me about anything [here](https://t.me/kmhmubin) ! I am happy to help.
+- 💬 Ask me about anything **[here](https://t.me/kmhmubin)** ! I am happy to help.
 
 - 📫 How to reach me **[Twitter](http://twitter.com/kmhmubin)**
 
@@ -65,7 +65,6 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 
 <br />
 <!-- waka time stats-->
-<b>📊 This Week I Spent My Time On</b>
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -88,7 +87,7 @@ Windows                  3 hrs 54 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
-
+<br />
 
 <!-- GitHub stats -->
 <b>⚡ My GitHub Statistics</b>
