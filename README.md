@@ -161,11 +161,25 @@ Java                     2 repos             ██░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/xSomoy">
+        <img src="https://avatars2.githubusercontent.com/u/47719599" width="100px;" alt="xSomoy"/>
+      </a>
+      <br />
+      <a href="https://github.com/xSomoy">Somoy</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ankushbanik1">
         <img src="https://avatars2.githubusercontent.com/u/43584522" width="100px;" alt="ankushbanik1"/>
       </a>
       <br />
       <a href="https://github.com/ankushbanik1">Ankush Banik</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mgmgpyaesonewin">
+        <img src="https://avatars2.githubusercontent.com/u/12793202" width="100px;" alt="mgmgpyaesonewin"/>
+      </a>
+      <br />
+      <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
     </td>
     <td align="center">
       <a href="https://github.com/ZoeDreams">
@@ -175,12 +189,28 @@ Java                     2 repos             ██░░░░░░░░░�
       <a href="https://github.com/ZoeDreams">Kara Rawson</a>
     </td>
     <td align="center">
+      <a href="https://github.com/hoannc54">
+        <img src="https://avatars2.githubusercontent.com/u/10738135" width="100px;" alt="hoannc54"/>
+      </a>
+      <br />
+      <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/smithg09">
+        <img src="https://avatars2.githubusercontent.com/u/41014321" width="100px;" alt="smithg09"/>
+      </a>
+      <br />
+      <a href="https://github.com/smithg09">Smith Gajjar</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/fikritrader">
         <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
       </a>
       <br />
       <a href="https://github.com/fikritrader">fikritrader</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/iwancilibur">
         <img src="https://avatars2.githubusercontent.com/u/32497273" width="100px;" alt="iwancilibur"/>
@@ -209,8 +239,6 @@ Java                     2 repos             ██░░░░░░░░░�
       <br />
       <a href="https://github.com/SourabhSaha71">Sourabh Saha</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ARAV0411">
         <img src="https://avatars2.githubusercontent.com/u/58031492" width="100px;" alt="ARAV0411"/>
@@ -226,39 +254,11 @@ Java                     2 repos             ██░░░░░░░░░�
       <a href="https://github.com/abhi36rai">abhi36rai</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ankit1Verma">
-        <img src="https://avatars2.githubusercontent.com/u/43811154" width="100px;" alt="Ankit1Verma"/>
+      <a href="https://github.com/RubenConde">
+        <img src="https://avatars2.githubusercontent.com/u/33502428" width="100px;" alt="RubenConde"/>
       </a>
       <br />
-      <a href="https://github.com/Ankit1Verma">ANKIT VERMA</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mincewords613">
-        <img src="https://avatars2.githubusercontent.com/u/74135899" width="100px;" alt="mincewords613"/>
-      </a>
-      <br />
-      <a href="https://github.com/mincewords613">mincewords613</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jaw8d">
-        <img src="https://avatars2.githubusercontent.com/u/64399939" width="100px;" alt="jaw8d"/>
-      </a>
-      <br />
-      <a href="https://github.com/jaw8d">Ashraful Alam Jawad</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bograh">
-        <img src="https://avatars2.githubusercontent.com/u/69661398" width="100px;" alt="bograh"/>
-      </a>
-      <br />
-      <a href="https://github.com/bograh">bograh</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Zeeshan-jamal">
-        <img src="https://avatars2.githubusercontent.com/u/64805436" width="100px;" alt="Zeeshan-jamal"/>
-      </a>
-      <br />
-      <a href="https://github.com/Zeeshan-jamal">Zeeshan Jamal</a>
+      <a href="https://github.com/RubenConde">Rubén Conde</a>
     </td>
   </tr>
 </table>
