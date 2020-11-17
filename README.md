@@ -172,6 +172,13 @@ Windows                  3 hrs 54 mins       ███████████�
       <a href="https://github.com/sheheryar17">Sheheryar Afzal</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Yusuf1n">
+        <img src="https://avatars2.githubusercontent.com/u/71137409" width="100px;" alt="Yusuf1n"/>
+      </a>
+      <br />
+      <a href="https://github.com/Yusuf1n">Yusuf Naheem</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/XuanToa">
         <img src="https://avatars2.githubusercontent.com/u/25999210" width="100px;" alt="XuanToa"/>
       </a>
@@ -198,13 +205,6 @@ Windows                  3 hrs 54 mins       ███████████�
       </a>
       <br />
       <a href="https://github.com/abhi36rai">abhi36rai</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/RubenConde">
-        <img src="https://avatars2.githubusercontent.com/u/33502428" width="100px;" alt="RubenConde"/>
-      </a>
-      <br />
-      <a href="https://github.com/RubenConde">Rubén Conde</a>
     </td>
   </tr>
 </table>
