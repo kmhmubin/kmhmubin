@@ -52,11 +52,11 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 
 ### 📕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Build a Python3 Rock Paper Scissor Game Using ASCII Art](https://mubinsodyssey.com/build-a-python3-rock-paper-scissor-game-using-ascii-art)
-- [Successful Blog! What Does It Even Mean?](https://mubinsodyssey.com/successful-blog-what-does-it-even-mean)
-- [Getting Started With Python 3](https://mubinsodyssey.com/getting-started-with-python-3)
-- [Create A Badass GitHub Profile READMEs](https://mubinsodyssey.com/create-a-badass-github-profile-readmes)
 - [How To Choose A Programming Language Guide 2021](https://mubinsodyssey.com/how-to-choose-a-programming-language-guide-2021)
+- [Add Hashnode Blog On Google Search Console](https://mubinsodyssey.com/add-hashnode-blog-on-google-search-console)
+- [Install Google Analytics On Your Hashnode Blog](https://mubinsodyssey.com/install-google-analytics-on-your-hashnode-blog)
+- [Set Up Your Own Blog on Hashnode](https://mubinsodyssey.com/set-up-your-own-blog-on-hashnode)
+- [Getting Started with Hashnode](https://mubinsodyssey.com/getting-started-with-hashnode)
 <!-- BLOG-POST-LIST:END -->
 
 ---
