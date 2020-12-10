@@ -157,7 +157,7 @@ Windows                  2 hrs 32 mins       █████████░░�
         <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
       </a>
       <br />
-      <a href="https://github.com/fikritrader">fikritrader</a>
+      <a href="https://github.com/fikritrader">Fikri Bouklata</a>
     </td>
   </tr>
   <tr>
