@@ -152,14 +152,21 @@ Windows                  21 hrs 23 mins      ███████████�
       <a href="https://github.com/smithg09">Smith Gajjar</a>
     </td>
     <td align="center">
+      <a href="https://github.com/rognoni">
+        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
+      </a>
+      <br />
+      <a href="https://github.com/rognoni">Rognoni</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/fikritrader">
         <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
       </a>
       <br />
       <a href="https://github.com/fikritrader">Fikri Bouklata</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/iwancilibur">
         <img src="https://avatars2.githubusercontent.com/u/32497273" width="100px;" alt="iwancilibur"/>
@@ -201,13 +208,6 @@ Windows                  21 hrs 23 mins      ███████████�
       </a>
       <br />
       <a href="https://github.com/ARAV0411">ARAVINDHAN R</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/abhi36rai">
-        <img src="https://avatars2.githubusercontent.com/u/45686729" width="100px;" alt="abhi36rai"/>
-      </a>
-      <br />
-      <a href="https://github.com/abhi36rai">abhi36rai</a>
     </td>
   </tr>
 </table>
