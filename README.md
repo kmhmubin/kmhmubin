@@ -124,18 +124,18 @@ Windows                  21 hrs 7 mins       ███████████�
       <a href="https://github.com/ankushbanik1">Ankush Banik</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ZoeDreams">
-        <img src="https://avatars2.githubusercontent.com/u/14066277" width="100px;" alt="ZoeDreams"/>
-      </a>
-      <br />
-      <a href="https://github.com/ZoeDreams">Kara Rawson</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mgmgpyaesonewin">
         <img src="https://avatars2.githubusercontent.com/u/12793202" width="100px;" alt="mgmgpyaesonewin"/>
       </a>
       <br />
       <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ZoeDreams">
+        <img src="https://avatars2.githubusercontent.com/u/14066277" width="100px;" alt="ZoeDreams"/>
+      </a>
+      <br />
+      <a href="https://github.com/ZoeDreams">Kara Rawson</a>
     </td>
     <td align="center">
       <a href="https://github.com/hoannc54">
@@ -196,18 +196,18 @@ Windows                  21 hrs 7 mins       ███████████�
       <a href="https://github.com/XuanToa">Xuan-Toa Tran</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Trisha404">
+        <img src="https://avatars2.githubusercontent.com/u/75802306" width="100px;" alt="Trisha404"/>
+      </a>
+      <br />
+      <a href="https://github.com/Trisha404">Trisha</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/SourabhSaha71">
         <img src="https://avatars2.githubusercontent.com/u/56047879" width="100px;" alt="SourabhSaha71"/>
       </a>
       <br />
       <a href="https://github.com/SourabhSaha71">Sourabh Saha</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ARAV0411">
-        <img src="https://avatars2.githubusercontent.com/u/58031492" width="100px;" alt="ARAV0411"/>
-      </a>
-      <br />
-      <a href="https://github.com/ARAV0411">ARAVINDHAN R</a>
     </td>
   </tr>
 </table>
