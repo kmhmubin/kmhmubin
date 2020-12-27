@@ -189,6 +189,13 @@ Windows                  12 hrs 9 mins       ███████████�
       <a href="https://github.com/sheheryar17">Sheheryar Afzal</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Trisha404">
+        <img src="https://avatars2.githubusercontent.com/u/75802306" width="100px;" alt="Trisha404"/>
+      </a>
+      <br />
+      <a href="https://github.com/Trisha404">Trisha</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Yusuf1n">
         <img src="https://avatars2.githubusercontent.com/u/71137409" width="100px;" alt="Yusuf1n"/>
       </a>
@@ -201,13 +208,6 @@ Windows                  12 hrs 9 mins       ███████████�
       </a>
       <br />
       <a href="https://github.com/XuanToa">Xuan-Toa Tran</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Trisha404">
-        <img src="https://avatars2.githubusercontent.com/u/75802306" width="100px;" alt="Trisha404"/>
-      </a>
-      <br />
-      <a href="https://github.com/Trisha404">Trisha</a>
     </td>
   </tr>
 </table>
