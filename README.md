@@ -176,6 +176,13 @@ Windows                  18 hrs 51 mins      ███████████�
       <a href="https://github.com/fikritrader">Fikri Bouklata</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ByronHawksmith">
+        <img src="https://avatars2.githubusercontent.com/u/60097760" width="100px;" alt="ByronHawksmith"/>
+      </a>
+      <br />
+      <a href="https://github.com/ByronHawksmith">Byron Hawksmith</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/iwancilibur">
         <img src="https://avatars2.githubusercontent.com/u/32497273" width="100px;" alt="iwancilibur"/>
       </a>
@@ -202,13 +209,6 @@ Windows                  18 hrs 51 mins      ███████████�
       </a>
       <br />
       <a href="https://github.com/Yusuf1n">Yusuf Naheem</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/XuanToa">
-        <img src="https://avatars2.githubusercontent.com/u/25999210" width="100px;" alt="XuanToa"/>
-      </a>
-      <br />
-      <a href="https://github.com/XuanToa">Xuan-Toa Tran</a>
     </td>
   </tr>
 </table>
