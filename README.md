@@ -189,6 +189,13 @@ Windows                  23 hrs 33 mins      ███████████�
       <a href="https://github.com/iwancilibur">Iwan Cilibur</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Yusuf1n">
+        <img src="https://avatars2.githubusercontent.com/u/71137409" width="100px;" alt="Yusuf1n"/>
+      </a>
+      <br />
+      <a href="https://github.com/Yusuf1n">Yusuf Naheem</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/sheheryar17">
         <img src="https://avatars2.githubusercontent.com/u/30393948" width="100px;" alt="sheheryar17"/>
       </a>
@@ -201,13 +208,6 @@ Windows                  23 hrs 33 mins      ███████████�
       </a>
       <br />
       <a href="https://github.com/Trisha404">Trisha</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Yusuf1n">
-        <img src="https://avatars2.githubusercontent.com/u/71137409" width="100px;" alt="Yusuf1n"/>
-      </a>
-      <br />
-      <a href="https://github.com/Yusuf1n">Yusuf Naheem</a>
     </td>
   </tr>
 </table>
