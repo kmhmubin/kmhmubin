@@ -175,6 +175,13 @@ Windows                  26 hrs              ███████████�
       <a href="https://github.com/fikritrader">Fikri Bouklata</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Yusuf1n">
+        <img src="https://avatars2.githubusercontent.com/u/71137409" width="100px;" alt="Yusuf1n"/>
+      </a>
+      <br />
+      <a href="https://github.com/Yusuf1n">Yusuf Naheem</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ByronHawksmith">
         <img src="https://avatars2.githubusercontent.com/u/60097760" width="100px;" alt="ByronHawksmith"/>
       </a>
@@ -187,13 +194,6 @@ Windows                  26 hrs              ███████████�
       </a>
       <br />
       <a href="https://github.com/iwancilibur">Iwan Cilibur</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Yusuf1n">
-        <img src="https://avatars2.githubusercontent.com/u/71137409" width="100px;" alt="Yusuf1n"/>
-      </a>
-      <br />
-      <a href="https://github.com/Yusuf1n">Yusuf Naheem</a>
     </td>
     <td align="center">
       <a href="https://github.com/sheheryar17">
