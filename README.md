@@ -24,9 +24,9 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 
 - 📝 I regulary write articles on **[Mubin's Odysse](https://mubinsodyssey.com)**
 
-- 💬 Ask me about anything **[here](https://t.me/kmhmubin)** ! I am happy to help.
+- 💬 Ask me about anything **[KMH Mubin](https://linktr.ee/kmhmubin)** ! I am happy to help.
 
-- 📫 How to reach me **[Twitter](http://twitter.com/kmhmubin)**
+- 📫 How to reach me **[KMH Mubin](https://linktr.ee/kmhmubin)**
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
