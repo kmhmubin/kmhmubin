@@ -189,18 +189,18 @@ Windows                  3 hrs 37 mins       ███████████�
       <a href="https://github.com/ByronHawksmith">Byron Hawksmith</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ToyBotDroid">
-        <img src="https://avatars2.githubusercontent.com/u/66821786" width="100px;" alt="ToyBotDroid"/>
-      </a>
-      <br />
-      <a href="https://github.com/ToyBotDroid">Ni5 ck-73</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/iwancilibur">
         <img src="https://avatars2.githubusercontent.com/u/32497273" width="100px;" alt="iwancilibur"/>
       </a>
       <br />
       <a href="https://github.com/iwancilibur">Iwan Cilibur</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ToyBotDroid">
+        <img src="https://avatars2.githubusercontent.com/u/66821786" width="100px;" alt="ToyBotDroid"/>
+      </a>
+      <br />
+      <a href="https://github.com/ToyBotDroid">Ni5 ck-73</a>
     </td>
     <td align="center">
       <a href="https://github.com/sheheryar17">
