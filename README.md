@@ -169,18 +169,18 @@ No Activity Tracked This Week
       <a href="https://github.com/fikritrader">Fikri Bouklata</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Yusuf1n">
-        <img src="https://avatars2.githubusercontent.com/u/71137409" width="100px;" alt="Yusuf1n"/>
-      </a>
-      <br />
-      <a href="https://github.com/Yusuf1n">Yusuf Naheem</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ByronHawksmith">
         <img src="https://avatars2.githubusercontent.com/u/60097760" width="100px;" alt="ByronHawksmith"/>
       </a>
       <br />
       <a href="https://github.com/ByronHawksmith">Byron Hawksmith</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yusuf1n">
+        <img src="https://avatars2.githubusercontent.com/u/71137409" width="100px;" alt="Yusuf1n"/>
+      </a>
+      <br />
+      <a href="https://github.com/Yusuf1n">Yusuf Naheem</a>
     </td>
     <td align="center">
       <a href="https://github.com/iwancilibur">
@@ -194,7 +194,7 @@ No Activity Tracked This Week
         <img src="https://avatars2.githubusercontent.com/u/66821786" width="100px;" alt="ToyBotDroid"/>
       </a>
       <br />
-      <a href="https://github.com/ToyBotDroid">Ni5 ck-73</a>
+      <a href="https://github.com/ToyBotDroid">ToyBotDroid</a>
     </td>
     <td align="center">
       <a href="https://github.com/sheheryar17">
