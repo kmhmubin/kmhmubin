@@ -190,18 +190,18 @@ No Activity Tracked This Week
       <a href="https://github.com/iwancilibur">Iwan Cilibur</a>
     </td>
     <td align="center">
+      <a href="https://github.com/bograh">
+        <img src="https://avatars2.githubusercontent.com/u/69661398" width="100px;" alt="bograh"/>
+      </a>
+      <br />
+      <a href="https://github.com/bograh">bograh</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ToyBotDroid">
         <img src="https://avatars2.githubusercontent.com/u/66821786" width="100px;" alt="ToyBotDroid"/>
       </a>
       <br />
       <a href="https://github.com/ToyBotDroid">ToyBotDroid</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sheheryar17">
-        <img src="https://avatars2.githubusercontent.com/u/30393948" width="100px;" alt="sheheryar17"/>
-      </a>
-      <br />
-      <a href="https://github.com/sheheryar17">Sheheryar Afzal</a>
     </td>
   </tr>
 </table>
