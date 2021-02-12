@@ -139,18 +139,18 @@ No Activity Tracked This Week
       <a href="https://github.com/TDFS-Dom">Nguyễn Hữu Toàn</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rognoni">
-        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
-      </a>
-      <br />
-      <a href="https://github.com/rognoni">Rognoni</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/hoannc54">
         <img src="https://avatars2.githubusercontent.com/u/10738135" width="100px;" alt="hoannc54"/>
       </a>
       <br />
       <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rognoni">
+        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
+      </a>
+      <br />
+      <a href="https://github.com/rognoni">Rognoni</a>
     </td>
   </tr>
   <tr>
