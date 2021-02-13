@@ -72,13 +72,13 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     14 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  14 mins             █████████████████████████   100.0%
 
 ```
 
