@@ -146,20 +146,20 @@ Windows                  14 mins             ███████████�
       <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rognoni">
-        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
-      </a>
-      <br />
-      <a href="https://github.com/rognoni">Rognoni</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/smithg09">
         <img src="https://avatars2.githubusercontent.com/u/41014321" width="100px;" alt="smithg09"/>
       </a>
       <br />
       <a href="https://github.com/smithg09">Smith Gajjar</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rognoni">
+        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
+      </a>
+      <br />
+      <a href="https://github.com/rognoni">Rognoni</a>
     </td>
     <td align="center">
       <a href="https://github.com/fikritrader">
@@ -190,18 +190,18 @@ Windows                  14 mins             ███████████�
       <a href="https://github.com/iwancilibur">Iwan Cilibur</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bograh">
-        <img src="https://avatars2.githubusercontent.com/u/69661398" width="100px;" alt="bograh"/>
-      </a>
-      <br />
-      <a href="https://github.com/bograh">bograh</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ToyBotDroid">
         <img src="https://avatars2.githubusercontent.com/u/66821786" width="100px;" alt="ToyBotDroid"/>
       </a>
       <br />
       <a href="https://github.com/ToyBotDroid">ToyBotDroid</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sheheryar17">
+        <img src="https://avatars2.githubusercontent.com/u/30393948" width="100px;" alt="sheheryar17"/>
+      </a>
+      <br />
+      <a href="https://github.com/sheheryar17">Sheheryar Afzal</a>
     </td>
   </tr>
 </table>
