@@ -111,13 +111,6 @@ Windows                  14 mins             ███████████�
       <a href="https://github.com/xSomoy">Somoy</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ankushbanik1">
-        <img src="https://avatars2.githubusercontent.com/u/43584522" width="100px;" alt="ankushbanik1"/>
-      </a>
-      <br />
-      <a href="https://github.com/ankushbanik1">Ankush Banik</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ZoeDreams">
         <img src="https://avatars2.githubusercontent.com/u/14066277" width="100px;" alt="ZoeDreams"/>
       </a>
@@ -130,6 +123,13 @@ Windows                  14 mins             ███████████�
       </a>
       <br />
       <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ankushbanik1">
+        <img src="https://avatars2.githubusercontent.com/u/43584522" width="100px;" alt="ankushbanik1"/>
+      </a>
+      <br />
+      <a href="https://github.com/ankushbanik1">Ankush Banik</a>
     </td>
     <td align="center">
       <a href="https://github.com/TDFS-Dom">
