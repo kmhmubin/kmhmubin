@@ -151,20 +151,20 @@ Windows                  2 hrs 58 mins       ███████████�
       <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rognoni">
-        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
-      </a>
-      <br />
-      <a href="https://github.com/rognoni">Rognoni</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/smithg09">
         <img src="https://avatars2.githubusercontent.com/u/41014321" width="100px;" alt="smithg09"/>
       </a>
       <br />
       <a href="https://github.com/smithg09">Smith Gajjar</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rognoni">
+        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
+      </a>
+      <br />
+      <a href="https://github.com/rognoni">Rognoni</a>
     </td>
     <td align="center">
       <a href="https://github.com/fikritrader">
