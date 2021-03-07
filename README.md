@@ -144,22 +144,6 @@ Windows                  5 hrs 30 mins       ███████████�
       <a href="https://github.com/TDFS-Dom">Nguyễn Hữu Toàn</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rognoni">
-        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
-      </a>
-      <br />
-      <a href="https://github.com/rognoni">Rognoni</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hoannc54">
-        <img src="https://avatars2.githubusercontent.com/u/10738135" width="100px;" alt="hoannc54"/>
-      </a>
-      <br />
-      <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/smithg09">
         <img src="https://avatars2.githubusercontent.com/u/41014321" width="100px;" alt="smithg09"/>
       </a>
@@ -167,11 +151,34 @@ Windows                  5 hrs 30 mins       ███████████�
       <a href="https://github.com/smithg09">Smith Gajjar</a>
     </td>
     <td align="center">
+      <a href="https://github.com/rognoni">
+        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
+      </a>
+      <br />
+      <a href="https://github.com/rognoni">Rognoni</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/hoannc54">
+        <img src="https://avatars2.githubusercontent.com/u/10738135" width="100px;" alt="hoannc54"/>
+      </a>
+      <br />
+      <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/fikritrader">
         <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
       </a>
       <br />
       <a href="https://github.com/fikritrader">Fikri Bouklata</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CojocAdrian">
+        <img src="https://avatars2.githubusercontent.com/u/80144231" width="100px;" alt="CojocAdrian"/>
+      </a>
+      <br />
+      <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
     </td>
     <td align="center">
       <a href="https://github.com/ByronHawksmith">
@@ -200,13 +207,6 @@ Windows                  5 hrs 30 mins       ███████████�
       </a>
       <br />
       <a href="https://github.com/bograh">bograh</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sheheryar17">
-        <img src="https://avatars2.githubusercontent.com/u/30393948" width="100px;" alt="sheheryar17"/>
-      </a>
-      <br />
-      <a href="https://github.com/sheheryar17">Sheheryar Afzal</a>
     </td>
   </tr>
 </table>
