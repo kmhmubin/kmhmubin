@@ -123,18 +123,18 @@ Windows                  6 hrs 59 mins       ███████████�
       <a href="https://github.com/ZoeDreams">Kara Rawson</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ankushbanik1">
-        <img src="https://avatars2.githubusercontent.com/u/43584522" width="100px;" alt="ankushbanik1"/>
-      </a>
-      <br />
-      <a href="https://github.com/ankushbanik1">Ankush Banik</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mgmgpyaesonewin">
         <img src="https://avatars2.githubusercontent.com/u/12793202" width="100px;" alt="mgmgpyaesonewin"/>
       </a>
       <br />
       <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ankushbanik1">
+        <img src="https://avatars2.githubusercontent.com/u/43584522" width="100px;" alt="ankushbanik1"/>
+      </a>
+      <br />
+      <a href="https://github.com/ankushbanik1">Ankush Banik</a>
     </td>
     <td align="center">
       <a href="https://github.com/TDFS-Dom">
@@ -167,18 +167,18 @@ Windows                  6 hrs 59 mins       ███████████�
       <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fikritrader">
-        <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
-      </a>
-      <br />
-      <a href="https://github.com/fikritrader">Fikri Bouklata</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CojocAdrian">
         <img src="https://avatars2.githubusercontent.com/u/80144231" width="100px;" alt="CojocAdrian"/>
       </a>
       <br />
       <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fikritrader">
+        <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
+      </a>
+      <br />
+      <a href="https://github.com/fikritrader">Fikri Bouklata</a>
     </td>
     <td align="center">
       <a href="https://github.com/ByronHawksmith">
