@@ -54,7 +54,7 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 - [Build a Python3 Rock Paper Scissor Game Using ASCII Art](https://mubinsodyssey.com/build-a-python3-rock-paper-scissor-game-using-ascii-art)
 - [Successful Blog! What Does It Even Mean?](https://mubinsodyssey.com/successful-blog-what-does-it-even-mean)
 - [Getting Started With Python 3](https://mubinsodyssey.com/getting-started-with-python-3)
-- [Create A Badass GitHub Profile READMEs](https://mubinsodyssey.com/create-a-badass-github-profile-readmes)
+- [How Did GitHub Profile READMEs Become the Best? Find out.](https://mubinsodyssey.com/how-did-github-profile-readmes-become-the-best-find-out)
 - [How To Choose A Programming Language Guide 2021](https://mubinsodyssey.com/how-to-choose-a-programming-language-guide-2021)
 <!-- BLOG-POST-LIST:END -->
 
