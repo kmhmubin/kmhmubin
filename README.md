@@ -137,18 +137,18 @@ Windows                  2 hrs 34 mins       ███████████�
       <a href="https://github.com/ankushbanik1">Ankush Banik</a>
     </td>
     <td align="center">
-      <a href="https://github.com/TDFS-Dom">
-        <img src="https://avatars2.githubusercontent.com/u/12974761" width="100px;" alt="TDFS-Dom"/>
-      </a>
-      <br />
-      <a href="https://github.com/TDFS-Dom">Nguyễn Hữu Toàn</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CojocAdrian">
         <img src="https://avatars2.githubusercontent.com/u/80144231" width="100px;" alt="CojocAdrian"/>
       </a>
       <br />
       <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TDFS-Dom">
+        <img src="https://avatars2.githubusercontent.com/u/12974761" width="100px;" alt="TDFS-Dom"/>
+      </a>
+      <br />
+      <a href="https://github.com/TDFS-Dom">Nguyễn Hữu Toàn</a>
     </td>
     <td align="center">
       <a href="https://github.com/smithg09">
