@@ -188,18 +188,18 @@ Windows                  6 hrs 53 mins       ███████████�
       <a href="https://github.com/ByronHawksmith">Byron Hawksmith</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Yusuf1n">
-        <img src="https://avatars2.githubusercontent.com/u/71137409" width="100px;" alt="Yusuf1n"/>
-      </a>
-      <br />
-      <a href="https://github.com/Yusuf1n">Yusuf Naheem</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/bograh">
         <img src="https://avatars2.githubusercontent.com/u/69661398" width="100px;" alt="bograh"/>
       </a>
       <br />
       <a href="https://github.com/bograh">bograh</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yusuf1n">
+        <img src="https://avatars2.githubusercontent.com/u/71137409" width="100px;" alt="Yusuf1n"/>
+      </a>
+      <br />
+      <a href="https://github.com/Yusuf1n">Yusuf Naheem</a>
     </td>
     <td align="center">
       <a href="https://github.com/Avinash-Murugappan">
