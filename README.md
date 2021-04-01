@@ -160,18 +160,18 @@ Windows                  5 hrs 14 mins       ███████████�
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/rognoni">
-        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
-      </a>
-      <br />
-      <a href="https://github.com/rognoni">Rognoni</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/hoannc54">
         <img src="https://avatars2.githubusercontent.com/u/10738135" width="100px;" alt="hoannc54"/>
       </a>
       <br />
       <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rognoni">
+        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
+      </a>
+      <br />
+      <a href="https://github.com/rognoni">Rognoni</a>
     </td>
     <td align="center">
       <a href="https://github.com/fikritrader">
@@ -188,18 +188,18 @@ Windows                  5 hrs 14 mins       ███████████�
       <a href="https://github.com/ByronHawksmith">Byron Hawksmith</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Yusuf1n">
-        <img src="https://avatars2.githubusercontent.com/u/71137409" width="100px;" alt="Yusuf1n"/>
-      </a>
-      <br />
-      <a href="https://github.com/Yusuf1n">Yusuf Naheem</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/bograh">
         <img src="https://avatars2.githubusercontent.com/u/69661398" width="100px;" alt="bograh"/>
       </a>
       <br />
       <a href="https://github.com/bograh">bograh</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yusuf1n">
+        <img src="https://avatars2.githubusercontent.com/u/71137409" width="100px;" alt="Yusuf1n"/>
+      </a>
+      <br />
+      <a href="https://github.com/Yusuf1n">Yusuf Naheem</a>
     </td>
     <td align="center">
       <a href="https://github.com/Avinash-Murugappan">
