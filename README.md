@@ -137,6 +137,13 @@ Windows                  5 hrs 14 mins       ███████████�
       <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
     </td>
     <td align="center">
+      <a href="https://github.com/BraianMendes">
+        <img src="https://avatars2.githubusercontent.com/u/51147109" width="100px;" alt="BraianMendes"/>
+      </a>
+      <br />
+      <a href="https://github.com/BraianMendes">Braian Mendes Corrêa</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/CojocAdrian">
         <img src="https://avatars2.githubusercontent.com/u/80144231" width="100px;" alt="CojocAdrian"/>
       </a>
@@ -150,6 +157,8 @@ Windows                  5 hrs 14 mins       ███████████�
       <br />
       <a href="https://github.com/TDFS-Dom">Nguyễn Hữu Toàn</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/smithg09">
         <img src="https://avatars2.githubusercontent.com/u/41014321" width="100px;" alt="smithg09"/>
@@ -157,8 +166,6 @@ Windows                  5 hrs 14 mins       ███████████�
       <br />
       <a href="https://github.com/smithg09">Smith Gajjar</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/hoannc54">
         <img src="https://avatars2.githubusercontent.com/u/10738135" width="100px;" alt="hoannc54"/>
@@ -181,6 +188,13 @@ Windows                  5 hrs 14 mins       ███████████�
       <a href="https://github.com/fikritrader">Fikri Bouklata</a>
     </td>
     <td align="center">
+      <a href="https://github.com/LisoCodes">
+        <img src="https://avatars2.githubusercontent.com/u/69369239" width="100px;" alt="LisoCodes"/>
+      </a>
+      <br />
+      <a href="https://github.com/LisoCodes">Liso</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ByronHawksmith">
         <img src="https://avatars2.githubusercontent.com/u/60097760" width="100px;" alt="ByronHawksmith"/>
       </a>
@@ -193,20 +207,6 @@ Windows                  5 hrs 14 mins       ███████████�
       </a>
       <br />
       <a href="https://github.com/bograh">bograh</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Yusuf1n">
-        <img src="https://avatars2.githubusercontent.com/u/71137409" width="100px;" alt="Yusuf1n"/>
-      </a>
-      <br />
-      <a href="https://github.com/Yusuf1n">Yusuf Naheem</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Avinash-Murugappan">
-        <img src="https://avatars2.githubusercontent.com/u/58096840" width="100px;" alt="Avinash-Murugappan"/>
-      </a>
-      <br />
-      <a href="https://github.com/Avinash-Murugappan">Avinash A Murugappan</a>
     </td>
   </tr>
 </table>
