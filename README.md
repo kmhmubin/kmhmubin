@@ -109,6 +109,13 @@ Windows                  8 hrs 8 mins        ███████████�
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/mariasalvadora">
+        <img src="https://avatars2.githubusercontent.com/u/65211240" width="100px;" alt="mariasalvadora"/>
+      </a>
+      <br />
+      <a href="https://github.com/mariasalvadora">Maria</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/xSomoy">
         <img src="https://avatars2.githubusercontent.com/u/47719599" width="100px;" alt="xSomoy"/>
       </a>
@@ -150,6 +157,8 @@ Windows                  8 hrs 8 mins        ███████████�
       <br />
       <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/TDFS-Dom">
         <img src="https://avatars2.githubusercontent.com/u/12974761" width="100px;" alt="TDFS-Dom"/>
@@ -157,8 +166,6 @@ Windows                  8 hrs 8 mins        ███████████�
       <br />
       <a href="https://github.com/TDFS-Dom">Nguyễn Hữu Toàn</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/smithg09">
         <img src="https://avatars2.githubusercontent.com/u/41014321" width="100px;" alt="smithg09"/>
@@ -200,13 +207,6 @@ Windows                  8 hrs 8 mins        ███████████�
       </a>
       <br />
       <a href="https://github.com/ByronHawksmith">Byron Hawksmith</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bograh">
-        <img src="https://avatars2.githubusercontent.com/u/69661398" width="100px;" alt="bograh"/>
-      </a>
-      <br />
-      <a href="https://github.com/bograh">bograh</a>
     </td>
   </tr>
 </table>
