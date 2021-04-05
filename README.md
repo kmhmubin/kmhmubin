@@ -188,18 +188,18 @@ Windows                  12 hrs 41 mins      ███████████�
       <a href="https://github.com/rognoni">Rognoni</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fikritrader">
-        <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
-      </a>
-      <br />
-      <a href="https://github.com/fikritrader">Fikri Bouklata</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/LisoCodes">
         <img src="https://avatars2.githubusercontent.com/u/69369239" width="100px;" alt="LisoCodes"/>
       </a>
       <br />
       <a href="https://github.com/LisoCodes">Liso</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fikritrader">
+        <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
+      </a>
+      <br />
+      <a href="https://github.com/fikritrader">Fikri Bouklata</a>
     </td>
     <td align="center">
       <a href="https://github.com/ByronHawksmith">
