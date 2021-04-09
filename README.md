@@ -202,11 +202,11 @@ Windows                  20 hrs 47 mins      ███████████�
       <a href="https://github.com/fikritrader">Fikri Bouklata</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ByronHawksmith">
-        <img src="https://avatars2.githubusercontent.com/u/60097760" width="100px;" alt="ByronHawksmith"/>
+      <a href="https://github.com/arjun-ms">
+        <img src="https://avatars2.githubusercontent.com/u/64315213" width="100px;" alt="arjun-ms"/>
       </a>
       <br />
-      <a href="https://github.com/ByronHawksmith">Byron Hawksmith</a>
+      <a href="https://github.com/arjun-ms">Arjun M S </a>
     </td>
   </tr>
 </table>
