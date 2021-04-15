@@ -136,18 +136,18 @@ Windows                  15 hrs 48 mins      ███████████�
       <a href="https://github.com/BraianMendes">Braian Mendes Corrêa</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ankushbanik1">
-        <img src="https://avatars2.githubusercontent.com/u/43584522" width="100px;" alt="ankushbanik1"/>
-      </a>
-      <br />
-      <a href="https://github.com/ankushbanik1">Ankush Banik</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mgmgpyaesonewin">
         <img src="https://avatars2.githubusercontent.com/u/12793202" width="100px;" alt="mgmgpyaesonewin"/>
       </a>
       <br />
       <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ankushbanik1">
+        <img src="https://avatars2.githubusercontent.com/u/43584522" width="100px;" alt="ankushbanik1"/>
+      </a>
+      <br />
+      <a href="https://github.com/ankushbanik1">Ankush Banik</a>
     </td>
     <td align="center">
       <a href="https://github.com/CojocAdrian">
