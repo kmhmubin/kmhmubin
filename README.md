@@ -129,11 +129,11 @@ Windows                  30 hrs 34 mins      ███████████�
       <a href="https://github.com/ZoeDreams">Kara Rawson</a>
     </td>
     <td align="center">
-      <a href="https://github.com/BraianMendes">
-        <img src="https://avatars2.githubusercontent.com/u/51147109" width="100px;" alt="BraianMendes"/>
+      <a href="https://github.com/CojocAdrian">
+        <img src="https://avatars2.githubusercontent.com/u/80144231" width="100px;" alt="CojocAdrian"/>
       </a>
       <br />
-      <a href="https://github.com/BraianMendes">Braian Mendes Corrêa</a>
+      <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
     </td>
     <td align="center">
       <a href="https://github.com/mgmgpyaesonewin">
@@ -143,18 +143,18 @@ Windows                  30 hrs 34 mins      ███████████�
       <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
     </td>
     <td align="center">
+      <a href="https://github.com/BraianMendes">
+        <img src="https://avatars2.githubusercontent.com/u/51147109" width="100px;" alt="BraianMendes"/>
+      </a>
+      <br />
+      <a href="https://github.com/BraianMendes">Braian Mendes Corrêa</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ankushbanik1">
         <img src="https://avatars2.githubusercontent.com/u/43584522" width="100px;" alt="ankushbanik1"/>
       </a>
       <br />
       <a href="https://github.com/ankushbanik1">Ankush Banik</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/CojocAdrian">
-        <img src="https://avatars2.githubusercontent.com/u/80144231" width="100px;" alt="CojocAdrian"/>
-      </a>
-      <br />
-      <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
     </td>
   </tr>
   <tr>
@@ -173,18 +173,18 @@ Windows                  30 hrs 34 mins      ███████████�
       <a href="https://github.com/smithg09">Smith Gajjar</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hoannc54">
-        <img src="https://avatars2.githubusercontent.com/u/10738135" width="100px;" alt="hoannc54"/>
-      </a>
-      <br />
-      <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rognoni">
         <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
       </a>
       <br />
       <a href="https://github.com/rognoni">Rognoni</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hoannc54">
+        <img src="https://avatars2.githubusercontent.com/u/10738135" width="100px;" alt="hoannc54"/>
+      </a>
+      <br />
+      <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
     </td>
     <td align="center">
       <a href="https://github.com/LisoCodes">
