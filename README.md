@@ -175,6 +175,13 @@ Windows                  7 hrs 39 mins       ███████████�
       <a href="https://github.com/smithg09">Smith Gajjar</a>
     </td>
     <td align="center">
+      <a href="https://github.com/LisoCodes">
+        <img src="https://avatars2.githubusercontent.com/u/69369239" width="100px;" alt="LisoCodes"/>
+      </a>
+      <br />
+      <a href="https://github.com/LisoCodes">Liso</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/rognoni">
         <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
       </a>
@@ -187,13 +194,6 @@ Windows                  7 hrs 39 mins       ███████████�
       </a>
       <br />
       <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/LisoCodes">
-        <img src="https://avatars2.githubusercontent.com/u/69369239" width="100px;" alt="LisoCodes"/>
-      </a>
-      <br />
-      <a href="https://github.com/LisoCodes">Liso</a>
     </td>
     <td align="center">
       <a href="https://github.com/bograh">
