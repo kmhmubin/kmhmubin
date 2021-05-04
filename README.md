@@ -160,18 +160,18 @@ Windows                  9 hrs 13 mins       ███████████�
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/TDFS-Dom">
-        <img src="https://avatars2.githubusercontent.com/u/12974761" width="100px;" alt="TDFS-Dom"/>
-      </a>
-      <br />
-      <a href="https://github.com/TDFS-Dom">Nguyễn Hữu Toàn</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/smithg09">
         <img src="https://avatars2.githubusercontent.com/u/41014321" width="100px;" alt="smithg09"/>
       </a>
       <br />
       <a href="https://github.com/smithg09">Smith Gajjar</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TDFS-Dom">
+        <img src="https://avatars2.githubusercontent.com/u/12974761" width="100px;" alt="TDFS-Dom"/>
+      </a>
+      <br />
+      <a href="https://github.com/TDFS-Dom">Nguyễn Hữu Toàn</a>
     </td>
     <td align="center">
       <a href="https://github.com/LisoCodes">
@@ -202,11 +202,11 @@ Windows                  9 hrs 13 mins       ███████████�
       <a href="https://github.com/bograh">bograh</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fikritrader">
-        <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
+      <a href="https://github.com/arjun-ms">
+        <img src="https://avatars2.githubusercontent.com/u/64315213" width="100px;" alt="arjun-ms"/>
       </a>
       <br />
-      <a href="https://github.com/fikritrader">Fikri Bouklata</a>
+      <a href="https://github.com/arjun-ms">Arjun M S </a>
     </td>
   </tr>
 </table>
