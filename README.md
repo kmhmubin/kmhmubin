@@ -160,13 +160,6 @@ Windows                  8 hrs 58 mins       ███████████�
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/smithg09">
-        <img src="https://avatars2.githubusercontent.com/u/41014321" width="100px;" alt="smithg09"/>
-      </a>
-      <br />
-      <a href="https://github.com/smithg09">Smith Gajjar</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/TDFS-Dom">
         <img src="https://avatars2.githubusercontent.com/u/12974761" width="100px;" alt="TDFS-Dom"/>
       </a>
@@ -181,11 +174,11 @@ Windows                  8 hrs 58 mins       ███████████�
       <a href="https://github.com/LisoCodes">Liso</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rognoni">
-        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
+      <a href="https://github.com/smithg09">
+        <img src="https://avatars2.githubusercontent.com/u/41014321" width="100px;" alt="smithg09"/>
       </a>
       <br />
-      <a href="https://github.com/rognoni">Rognoni</a>
+      <a href="https://github.com/smithg09">Smith Gajjar</a>
     </td>
     <td align="center">
       <a href="https://github.com/hoannc54">
@@ -195,6 +188,13 @@ Windows                  8 hrs 58 mins       ███████████�
       <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
     </td>
     <td align="center">
+      <a href="https://github.com/rognoni">
+        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
+      </a>
+      <br />
+      <a href="https://github.com/rognoni">Rognoni</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/bograh">
         <img src="https://avatars2.githubusercontent.com/u/69661398" width="100px;" alt="bograh"/>
       </a>
@@ -202,11 +202,11 @@ Windows                  8 hrs 58 mins       ███████████�
       <a href="https://github.com/bograh">bograh</a>
     </td>
     <td align="center">
-      <a href="https://github.com/arjun-ms">
-        <img src="https://avatars2.githubusercontent.com/u/64315213" width="100px;" alt="arjun-ms"/>
+      <a href="https://github.com/fikritrader">
+        <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
       </a>
       <br />
-      <a href="https://github.com/arjun-ms">Arjun M S </a>
+      <a href="https://github.com/fikritrader">Fikri Bouklata</a>
     </td>
   </tr>
 </table>
