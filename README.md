@@ -160,6 +160,13 @@ Windows                  8 hrs 58 mins       ███████████�
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/Showrin">
+        <img src="https://avatars2.githubusercontent.com/u/28985234" width="100px;" alt="Showrin"/>
+      </a>
+      <br />
+      <a href="https://github.com/Showrin">Showrin Barua</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/TDFS-Dom">
         <img src="https://avatars2.githubusercontent.com/u/12974761" width="100px;" alt="TDFS-Dom"/>
       </a>
@@ -200,13 +207,6 @@ Windows                  8 hrs 58 mins       ███████████�
       </a>
       <br />
       <a href="https://github.com/bograh">bograh</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/fikritrader">
-        <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
-      </a>
-      <br />
-      <a href="https://github.com/fikritrader">Fikri Bouklata</a>
     </td>
   </tr>
 </table>
