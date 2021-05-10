@@ -123,18 +123,18 @@ Windows                  12 hrs 22 mins      ███████████�
       <a href="https://github.com/xSomoy">Somoy</a>
     </td>
     <td align="center">
-      <a href="https://github.com/CojocAdrian">
-        <img src="https://avatars2.githubusercontent.com/u/80144231" width="100px;" alt="CojocAdrian"/>
-      </a>
-      <br />
-      <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ZoeDreams">
         <img src="https://avatars2.githubusercontent.com/u/14066277" width="100px;" alt="ZoeDreams"/>
       </a>
       <br />
       <a href="https://github.com/ZoeDreams">Kara Rawson</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CojocAdrian">
+        <img src="https://avatars2.githubusercontent.com/u/80144231" width="100px;" alt="CojocAdrian"/>
+      </a>
+      <br />
+      <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
     </td>
     <td align="center">
       <a href="https://github.com/mgmgpyaesonewin">
@@ -202,11 +202,11 @@ Windows                  12 hrs 22 mins      ███████████�
       <a href="https://github.com/rognoni">Rognoni</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bograh">
-        <img src="https://avatars2.githubusercontent.com/u/69661398" width="100px;" alt="bograh"/>
+      <a href="https://github.com/fikritrader">
+        <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
       </a>
       <br />
-      <a href="https://github.com/bograh">bograh</a>
+      <a href="https://github.com/fikritrader">Fikri Bouklata</a>
     </td>
   </tr>
 </table>
