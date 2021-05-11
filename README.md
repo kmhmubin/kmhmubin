@@ -122,18 +122,18 @@ Windows                  15 hrs 20 mins      ███████████�
       <a href="https://github.com/xSomoy">Somoy</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ZoeDreams">
-        <img src="https://avatars2.githubusercontent.com/u/14066277" width="100px;" alt="ZoeDreams"/>
-      </a>
-      <br />
-      <a href="https://github.com/ZoeDreams">Kara Rawson</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CojocAdrian">
         <img src="https://avatars2.githubusercontent.com/u/80144231" width="100px;" alt="CojocAdrian"/>
       </a>
       <br />
       <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ZoeDreams">
+        <img src="https://avatars2.githubusercontent.com/u/14066277" width="100px;" alt="ZoeDreams"/>
+      </a>
+      <br />
+      <a href="https://github.com/ZoeDreams">Kara Rawson</a>
     </td>
     <td align="center">
       <a href="https://github.com/mgmgpyaesonewin">
@@ -173,18 +173,18 @@ Windows                  15 hrs 20 mins      ███████████�
       <a href="https://github.com/TDFS-Dom">Nguyễn Hữu Toàn</a>
     </td>
     <td align="center">
-      <a href="https://github.com/LisoCodes">
-        <img src="https://avatars2.githubusercontent.com/u/69369239" width="100px;" alt="LisoCodes"/>
-      </a>
-      <br />
-      <a href="https://github.com/LisoCodes">Liso</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/smithg09">
         <img src="https://avatars2.githubusercontent.com/u/41014321" width="100px;" alt="smithg09"/>
       </a>
       <br />
       <a href="https://github.com/smithg09">Smith Gajjar</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LisoCodes">
+        <img src="https://avatars2.githubusercontent.com/u/69369239" width="100px;" alt="LisoCodes"/>
+      </a>
+      <br />
+      <a href="https://github.com/LisoCodes">Liso</a>
     </td>
     <td align="center">
       <a href="https://github.com/hoannc54">
