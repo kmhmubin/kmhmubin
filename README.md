@@ -136,6 +136,13 @@ Windows                  22 hrs 1 min        ███████████�
       <a href="https://github.com/ZoeDreams">Kara Rawson</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Showrin">
+        <img src="https://avatars2.githubusercontent.com/u/28985234" width="100px;" alt="Showrin"/>
+      </a>
+      <br />
+      <a href="https://github.com/Showrin">Showrin Barua</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/mgmgpyaesonewin">
         <img src="https://avatars2.githubusercontent.com/u/12793202" width="100px;" alt="mgmgpyaesonewin"/>
       </a>
@@ -149,21 +156,14 @@ Windows                  22 hrs 1 min        ███████████�
       <br />
       <a href="https://github.com/BraianMendes">Braian Mendes Corrêa</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ankushbanik1">
         <img src="https://avatars2.githubusercontent.com/u/43584522" width="100px;" alt="ankushbanik1"/>
       </a>
       <br />
       <a href="https://github.com/ankushbanik1">Ankush Banik</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Showrin">
-        <img src="https://avatars2.githubusercontent.com/u/28985234" width="100px;" alt="Showrin"/>
-      </a>
-      <br />
-      <a href="https://github.com/Showrin">Showrin Barua</a>
     </td>
     <td align="center">
       <a href="https://github.com/TDFS-Dom">
