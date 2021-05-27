@@ -201,11 +201,11 @@ Windows                  22 hrs 1 min        ███████████�
       <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fikritrader">
-        <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
+      <a href="https://github.com/VladBluestorm">
+        <img src="https://avatars2.githubusercontent.com/u/84132497" width="100px;" alt="VladBluestorm"/>
       </a>
       <br />
-      <a href="https://github.com/fikritrader">Fikri Bouklata</a>
+      <a href="https://github.com/VladBluestorm">VladBluestorm</a>
     </td>
   </tr>
 </table>
