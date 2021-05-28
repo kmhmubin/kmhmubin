@@ -115,6 +115,13 @@ Windows                  22 hrs 1 min        ███████████�
       <a href="https://github.com/mariasalvadora">Maria</a>
     </td>
     <td align="center">
+      <a href="https://github.com/prathimacode-hub">
+        <img src="https://avatars2.githubusercontent.com/u/74645302" width="100px;" alt="prathimacode-hub"/>
+      </a>
+      <br />
+      <a href="https://github.com/prathimacode-hub">Prathima Kadari</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/xSomoy">
         <img src="https://avatars2.githubusercontent.com/u/47719599" width="100px;" alt="xSomoy"/>
       </a>
@@ -149,6 +156,8 @@ Windows                  22 hrs 1 min        ███████████�
       <br />
       <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/BraianMendes">
         <img src="https://avatars2.githubusercontent.com/u/51147109" width="100px;" alt="BraianMendes"/>
@@ -156,8 +165,6 @@ Windows                  22 hrs 1 min        ███████████�
       <br />
       <a href="https://github.com/BraianMendes">Braian Mendes Corrêa</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ankushbanik1">
         <img src="https://avatars2.githubusercontent.com/u/43584522" width="100px;" alt="ankushbanik1"/>
@@ -199,13 +206,6 @@ Windows                  22 hrs 1 min        ███████████�
       </a>
       <br />
       <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/VladBluestorm">
-        <img src="https://avatars2.githubusercontent.com/u/84132497" width="100px;" alt="VladBluestorm"/>
-      </a>
-      <br />
-      <a href="https://github.com/VladBluestorm">VladBluestorm</a>
     </td>
   </tr>
 </table>
