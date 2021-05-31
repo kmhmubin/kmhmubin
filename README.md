@@ -137,18 +137,18 @@ Windows                  15 hrs 39 mins      ███████████�
       <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
     </td>
     <td align="center">
-      <a href="https://github.com/ZoeDreams">
-        <img src="https://avatars2.githubusercontent.com/u/14066277" width="100px;" alt="ZoeDreams"/>
-      </a>
-      <br />
-      <a href="https://github.com/ZoeDreams">Kara Rawson</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Showrin">
         <img src="https://avatars2.githubusercontent.com/u/28985234" width="100px;" alt="Showrin"/>
       </a>
       <br />
       <a href="https://github.com/Showrin">Showrin Barua</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ZoeDreams">
+        <img src="https://avatars2.githubusercontent.com/u/14066277" width="100px;" alt="ZoeDreams"/>
+      </a>
+      <br />
+      <a href="https://github.com/ZoeDreams">Kara Rawson</a>
     </td>
     <td align="center">
       <a href="https://github.com/mgmgpyaesonewin">
