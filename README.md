@@ -109,6 +109,13 @@ Windows                  5 hrs 58 mins       ███████████�
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/Magicianred">
+        <img src="https://avatars2.githubusercontent.com/u/4624113" width="100px;" alt="Magicianred"/>
+      </a>
+      <br />
+      <a href="https://github.com/Magicianred">Simone Paolucci</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/mariasalvadora">
         <img src="https://avatars2.githubusercontent.com/u/65211240" width="100px;" alt="mariasalvadora"/>
       </a>
@@ -121,6 +128,13 @@ Windows                  5 hrs 58 mins       ███████████�
       </a>
       <br />
       <a href="https://github.com/prathimacode-hub">Prathima Kadari</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kulbhushanchand">
+        <img src="https://avatars2.githubusercontent.com/u/17742733" width="100px;" alt="kulbhushanchand"/>
+      </a>
+      <br />
+      <a href="https://github.com/kulbhushanchand">Kulbhushan Chand</a>
     </td>
     <td align="center">
       <a href="https://github.com/xSomoy">
@@ -143,6 +157,8 @@ Windows                  5 hrs 58 mins       ███████████�
       <br />
       <a href="https://github.com/ZoeDreams">Kara Rawson</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Showrin">
         <img src="https://avatars2.githubusercontent.com/u/28985234" width="100px;" alt="Showrin"/>
@@ -157,8 +173,6 @@ Windows                  5 hrs 58 mins       ███████████�
       <br />
       <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/BraianMendes">
         <img src="https://avatars2.githubusercontent.com/u/51147109" width="100px;" alt="BraianMendes"/>
@@ -193,20 +207,6 @@ Windows                  5 hrs 58 mins       ███████████�
       </a>
       <br />
       <a href="https://github.com/LisoCodes">Liso</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rognoni">
-        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
-      </a>
-      <br />
-      <a href="https://github.com/rognoni">Rognoni</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hoannc54">
-        <img src="https://avatars2.githubusercontent.com/u/10738135" width="100px;" alt="hoannc54"/>
-      </a>
-      <br />
-      <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
     </td>
   </tr>
 </table>
