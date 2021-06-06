@@ -128,13 +128,6 @@ Windows                  10 mins             ███████████�
       <a href="https://github.com/prathimacode-hub">Prathima Kadari</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kulbhushanchand">
-        <img src="https://avatars2.githubusercontent.com/u/17742733" width="100px;" alt="kulbhushanchand"/>
-      </a>
-      <br />
-      <a href="https://github.com/kulbhushanchand">Kulbhushan Chand</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/xSomoy">
         <img src="https://avatars2.githubusercontent.com/u/47719599" width="100px;" alt="xSomoy"/>
       </a>
@@ -155,8 +148,6 @@ Windows                  10 mins             ███████████�
       <br />
       <a href="https://github.com/ZoeDreams">Kara Rawson</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Showrin">
         <img src="https://avatars2.githubusercontent.com/u/28985234" width="100px;" alt="Showrin"/>
@@ -164,6 +155,8 @@ Windows                  10 mins             ███████████�
       <br />
       <a href="https://github.com/Showrin">Showrin Barua</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/mgmgpyaesonewin">
         <img src="https://avatars2.githubusercontent.com/u/12793202" width="100px;" alt="mgmgpyaesonewin"/>
@@ -205,6 +198,13 @@ Windows                  10 mins             ███████████�
       </a>
       <br />
       <a href="https://github.com/LisoCodes">Liso</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rognoni">
+        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
+      </a>
+      <br />
+      <a href="https://github.com/rognoni">Rognoni</a>
     </td>
   </tr>
 </table>
