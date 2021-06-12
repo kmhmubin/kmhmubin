@@ -194,18 +194,18 @@ Windows                  10 mins             ███████████�
       <a href="https://github.com/smithg09">Smith Gajjar</a>
     </td>
     <td align="center">
+      <a href="https://github.com/VladBluestorm">
+        <img src="https://avatars2.githubusercontent.com/u/84132497" width="100px;" alt="VladBluestorm"/>
+      </a>
+      <br />
+      <a href="https://github.com/VladBluestorm">VladBluestorm</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/LisoCodes">
         <img src="https://avatars2.githubusercontent.com/u/69369239" width="100px;" alt="LisoCodes"/>
       </a>
       <br />
       <a href="https://github.com/LisoCodes">Liso</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rognoni">
-        <img src="https://avatars2.githubusercontent.com/u/8401602" width="100px;" alt="rognoni"/>
-      </a>
-      <br />
-      <a href="https://github.com/rognoni">Rognoni</a>
     </td>
   </tr>
 </table>
