@@ -128,18 +128,18 @@ Windows                  5 mins              ███████████�
       <a href="https://github.com/prathimacode-hub">Prathima Kadari</a>
     </td>
     <td align="center">
-      <a href="https://github.com/xSomoy">
-        <img src="https://avatars2.githubusercontent.com/u/47719599" width="100px;" alt="xSomoy"/>
-      </a>
-      <br />
-      <a href="https://github.com/xSomoy">Somoy</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CojocAdrian">
         <img src="https://avatars2.githubusercontent.com/u/80144231" width="100px;" alt="CojocAdrian"/>
       </a>
       <br />
       <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xSomoy">
+        <img src="https://avatars2.githubusercontent.com/u/47719599" width="100px;" alt="xSomoy"/>
+      </a>
+      <br />
+      <a href="https://github.com/xSomoy">Somoy</a>
     </td>
     <td align="center">
       <a href="https://github.com/Showrin">
