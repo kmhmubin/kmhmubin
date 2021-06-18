@@ -114,18 +114,18 @@ Windows                  22 mins             ███████████�
       <a href="https://github.com/Magicianred">Simone Paolucci</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mariasalvadora">
-        <img src="https://avatars2.githubusercontent.com/u/65211240" width="100px;" alt="mariasalvadora"/>
-      </a>
-      <br />
-      <a href="https://github.com/mariasalvadora">Maria</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/prathimacode-hub">
         <img src="https://avatars2.githubusercontent.com/u/74645302" width="100px;" alt="prathimacode-hub"/>
       </a>
       <br />
       <a href="https://github.com/prathimacode-hub">Prathima Kadari</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mariasalvadora">
+        <img src="https://avatars2.githubusercontent.com/u/65211240" width="100px;" alt="mariasalvadora"/>
+      </a>
+      <br />
+      <a href="https://github.com/mariasalvadora">Maria</a>
     </td>
     <td align="center">
       <a href="https://github.com/CojocAdrian">
@@ -186,18 +186,18 @@ Windows                  22 mins             ███████████�
       <a href="https://github.com/TDFS-Dom">Nguyễn Hữu Toàn</a>
     </td>
     <td align="center">
-      <a href="https://github.com/smithg09">
-        <img src="https://avatars2.githubusercontent.com/u/41014321" width="100px;" alt="smithg09"/>
-      </a>
-      <br />
-      <a href="https://github.com/smithg09">Smith Gajjar</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/VladBluestorm">
         <img src="https://avatars2.githubusercontent.com/u/84132497" width="100px;" alt="VladBluestorm"/>
       </a>
       <br />
       <a href="https://github.com/VladBluestorm">VladBluestorm</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/smithg09">
+        <img src="https://avatars2.githubusercontent.com/u/41014321" width="100px;" alt="smithg09"/>
+      </a>
+      <br />
+      <a href="https://github.com/smithg09">Smith Gajjar</a>
     </td>
     <td align="center">
       <a href="https://github.com/LisoCodes">
