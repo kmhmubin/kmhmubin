@@ -179,18 +179,18 @@ Windows                  22 mins             ███████████�
       <a href="https://github.com/ankushbanik1">Ankush Banik</a>
     </td>
     <td align="center">
-      <a href="https://github.com/TDFS-Dom">
-        <img src="https://avatars2.githubusercontent.com/u/12974761" width="100px;" alt="TDFS-Dom"/>
-      </a>
-      <br />
-      <a href="https://github.com/TDFS-Dom">Nguyễn Hữu Toàn</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/VladBluestorm">
         <img src="https://avatars2.githubusercontent.com/u/84132497" width="100px;" alt="VladBluestorm"/>
       </a>
       <br />
       <a href="https://github.com/VladBluestorm">VladBluestorm</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TDFS-Dom">
+        <img src="https://avatars2.githubusercontent.com/u/12974761" width="100px;" alt="TDFS-Dom"/>
+      </a>
+      <br />
+      <a href="https://github.com/TDFS-Dom">Nguyễn Hữu Toàn</a>
     </td>
     <td align="center">
       <a href="https://github.com/smithg09">
