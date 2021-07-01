@@ -132,7 +132,7 @@ Windows                  22 mins             ███████████�
         <img src="https://avatars2.githubusercontent.com/u/47719599" width="100px;" alt="xSomoy"/>
       </a>
       <br />
-      <a href="https://github.com/xSomoy">Somoy</a>
+      <a href="https://github.com/xSomoy">John Deadman</a>
     </td>
     <td align="center">
       <a href="https://github.com/CojocAdrian">
