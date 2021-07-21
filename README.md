@@ -165,18 +165,18 @@ Windows                  22 mins             ███████████�
       <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ankushbanik1">
-        <img src="https://avatars2.githubusercontent.com/u/43584522" width="100px;" alt="ankushbanik1"/>
-      </a>
-      <br />
-      <a href="https://github.com/ankushbanik1">Ankush Banik</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/BraianMendes">
         <img src="https://avatars2.githubusercontent.com/u/51147109" width="100px;" alt="BraianMendes"/>
       </a>
       <br />
       <a href="https://github.com/BraianMendes">Braian Mendes Corrêa</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ankushbanik1">
+        <img src="https://avatars2.githubusercontent.com/u/43584522" width="100px;" alt="ankushbanik1"/>
+      </a>
+      <br />
+      <a href="https://github.com/ankushbanik1">Ankush Banik</a>
     </td>
     <td align="center">
       <a href="https://github.com/VladBluestorm">
