@@ -63,30 +63,9 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 <h3>📈 My Dev Statistics: </h3>
 
 <br />
-<!-- waka time stats-->
-
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-CSS                      17 mins             ███████████████████░░░░░░   77.79% 
-HTML                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   22.21% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 20/06/2021
 <!--END_SECTION:waka-->
+
 <br />
 
 <!-- GitHub stats -->
