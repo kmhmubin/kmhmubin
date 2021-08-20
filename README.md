@@ -165,6 +165,13 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/ankushbanik1">Ankush Banik</a>
     </td>
     <td align="center">
+      <a href="https://github.com/staticshreyas">
+        <img src="https://avatars2.githubusercontent.com/u/50262105" width="100px;" alt="staticshreyas"/>
+      </a>
+      <br />
+      <a href="https://github.com/staticshreyas">Shreyas More</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/TDFS-Dom">
         <img src="https://avatars2.githubusercontent.com/u/12974761" width="100px;" alt="TDFS-Dom"/>
       </a>
@@ -177,13 +184,6 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       </a>
       <br />
       <a href="https://github.com/LisoCodes">Liso</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/smithg09">
-        <img src="https://avatars2.githubusercontent.com/u/41014321" width="100px;" alt="smithg09"/>
-      </a>
-      <br />
-      <a href="https://github.com/smithg09">Smith Gajjar</a>
     </td>
   </tr>
 </table>
