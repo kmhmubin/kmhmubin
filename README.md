@@ -137,18 +137,18 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/mgmgpyaesonewin">
-        <img src="https://avatars2.githubusercontent.com/u/12793202" width="100px;" alt="mgmgpyaesonewin"/>
-      </a>
-      <br />
-      <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/VladBluestorm">
         <img src="https://avatars2.githubusercontent.com/u/84132497" width="100px;" alt="VladBluestorm"/>
       </a>
       <br />
       <a href="https://github.com/VladBluestorm">VladBluestorm</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mgmgpyaesonewin">
+        <img src="https://avatars2.githubusercontent.com/u/12793202" width="100px;" alt="mgmgpyaesonewin"/>
+      </a>
+      <br />
+      <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
     </td>
     <td align="center">
       <a href="https://github.com/BraianMendes">
