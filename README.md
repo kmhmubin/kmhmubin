@@ -93,11 +93,25 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/Magicianred">Simone Paolucci</a>
     </td>
     <td align="center">
+      <a href="https://github.com/shakiliitju">
+        <img src="https://avatars2.githubusercontent.com/u/84621547" width="100px;" alt="shakiliitju"/>
+      </a>
+      <br />
+      <a href="https://github.com/shakiliitju">Md. Shakil Hossain</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/prathimacode-hub">
         <img src="https://avatars2.githubusercontent.com/u/74645302" width="100px;" alt="prathimacode-hub"/>
       </a>
       <br />
       <a href="https://github.com/prathimacode-hub">Prathima Kadari</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rakib3004">
+        <img src="https://avatars2.githubusercontent.com/u/48678659" width="100px;" alt="rakib3004"/>
+      </a>
+      <br />
+      <a href="https://github.com/rakib3004">Md. Rakib Trofder</a>
     </td>
     <td align="center">
       <a href="https://github.com/mariasalvadora">
@@ -120,6 +134,8 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <br />
       <a href="https://github.com/Showrin">Showrin Barua</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/CojocAdrian">
         <img src="https://avatars2.githubusercontent.com/u/80144231" width="100px;" alt="CojocAdrian"/>
@@ -134,21 +150,19 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <br />
       <a href="https://github.com/VladBluestorm">VladBluestorm</a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ZoeDreams">
-        <img src="https://avatars2.githubusercontent.com/u/14066277" width="100px;" alt="ZoeDreams"/>
-      </a>
-      <br />
-      <a href="https://github.com/ZoeDreams">Kara Rawson</a>
-    </td>
     <td align="center">
       <a href="https://github.com/mgmgpyaesonewin">
         <img src="https://avatars2.githubusercontent.com/u/12793202" width="100px;" alt="mgmgpyaesonewin"/>
       </a>
       <br />
       <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ZoeDreams">
+        <img src="https://avatars2.githubusercontent.com/u/14066277" width="100px;" alt="ZoeDreams"/>
+      </a>
+      <br />
+      <a href="https://github.com/ZoeDreams">Kara Rawson</a>
     </td>
     <td align="center">
       <a href="https://github.com/BraianMendes">
@@ -170,20 +184,6 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       </a>
       <br />
       <a href="https://github.com/staticshreyas">Shreyas More</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/TDFS-Dom">
-        <img src="https://avatars2.githubusercontent.com/u/12974761" width="100px;" alt="TDFS-Dom"/>
-      </a>
-      <br />
-      <a href="https://github.com/TDFS-Dom">Nguyễn Hữu Toàn</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/arjun-ms">
-        <img src="https://avatars2.githubusercontent.com/u/64315213" width="100px;" alt="arjun-ms"/>
-      </a>
-      <br />
-      <a href="https://github.com/arjun-ms">Arjun M S </a>
     </td>
   </tr>
 </table>
