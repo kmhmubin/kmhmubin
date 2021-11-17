@@ -51,11 +51,11 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 
 ### 📕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Build a Python3 Rock Paper Scissor Game Using ASCII Art](https://mubinsodyssey.com/build-a-python3-rock-paper-scissor-game-using-ascii-art)
-- [Successful Blog! What Does It Even Mean?](https://mubinsodyssey.com/successful-blog-what-does-it-even-mean)
-- [Getting Started With Python 3](https://mubinsodyssey.com/getting-started-with-python-3)
-- [How Did GitHub Profile READMEs Become the Best? Find out.](https://mubinsodyssey.com/how-did-github-profile-readmes-become-the-best-find-out)
-- [How To Choose A Programming Language Guide 2021](https://mubinsodyssey.com/how-to-choose-a-programming-language-guide-2021)
+- [Build a Python3 Rock Paper Scissor Game Using ASCII Art](https://blog.kmhmubin.com/build-a-python3-rock-paper-scissor-game-using-ascii-art)
+- [Successful Blog! What Does It Even Mean?](https://blog.kmhmubin.com/successful-blog-what-does-it-even-mean)
+- [Getting Started With Python 3](https://blog.kmhmubin.com/getting-started-with-python-3)
+- [How Did GitHub Profile READMEs Become the Best? Find out.](https://blog.kmhmubin.com/how-did-github-profile-readmes-become-the-best-find-out)
+- [How To Choose A Programming Language Guide 2021](https://blog.kmhmubin.com/how-to-choose-a-programming-language-guide-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
