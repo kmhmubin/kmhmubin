@@ -107,11 +107,11 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/shakiliitju">Md. Shakil Hossain</a>
     </td>
     <td align="center">
-      <a href="https://github.com/prathimacode-hub">
-        <img src="https://avatars2.githubusercontent.com/u/74645302" width="100px;" alt="prathimacode-hub"/>
+      <a href="https://github.com/m0rp43us">
+        <img src="https://avatars2.githubusercontent.com/u/12621034" width="100px;" alt="m0rp43us"/>
       </a>
       <br />
-      <a href="https://github.com/prathimacode-hub">Prathima Kadari</a>
+      <a href="https://github.com/m0rp43us">m0rp43us</a>
     </td>
     <td align="center">
       <a href="https://github.com/rakib3004">
@@ -121,12 +121,21 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/rakib3004">Md. Rakib Trofder</a>
     </td>
     <td align="center">
+      <a href="https://github.com/prathimacode-hub">
+        <img src="https://avatars2.githubusercontent.com/u/74645302" width="100px;" alt="prathimacode-hub"/>
+      </a>
+      <br />
+      <a href="https://github.com/prathimacode-hub">Prathima Kadari</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/DionneNoellaBarretto">
         <img src="https://avatars2.githubusercontent.com/u/16610213" width="100px;" alt="DionneNoellaBarretto"/>
       </a>
       <br />
       <a href="https://github.com/DionneNoellaBarretto">Dionne Noella</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/mariasalvadora">
         <img src="https://avatars2.githubusercontent.com/u/65211240" width="100px;" alt="mariasalvadora"/>
@@ -134,8 +143,6 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <br />
       <a href="https://github.com/mariasalvadora">Maria</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Showrin">
         <img src="https://avatars2.githubusercontent.com/u/28985234" width="100px;" alt="Showrin"/>
@@ -177,13 +184,6 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       </a>
       <br />
       <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/arjun-ms">
-        <img src="https://avatars2.githubusercontent.com/u/64315213" width="100px;" alt="arjun-ms"/>
-      </a>
-      <br />
-      <a href="https://github.com/arjun-ms">Arjun M S </a>
     </td>
   </tr>
 </table>
