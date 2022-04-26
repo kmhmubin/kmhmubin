@@ -22,7 +22,7 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 
 - 🌱 I’m currently learning Full stack development and UI design.
 
-- 📝 I regulary write articles on **[Mubin's Odysse](https://mubinsodyssey.com)**
+- 📝 I regulary write articles on **[Mubin's Blog](https://blog.kmhmubin.com/)**
 
 - 💬 Ask me about anything **[KMH Mubin](https://linktr.ee/kmhmubin)** ! I am happy to help.
 
