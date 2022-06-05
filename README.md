@@ -107,18 +107,18 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/m0rp43us">m0rp43us</a>
     </td>
     <td align="center">
-      <a href="https://github.com/shakiliitju">
-        <img src="https://avatars2.githubusercontent.com/u/84621547" width="100px;" alt="shakiliitju"/>
-      </a>
-      <br />
-      <a href="https://github.com/shakiliitju">Md. Shakil Hossain</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rakib3004">
         <img src="https://avatars2.githubusercontent.com/u/48678659" width="100px;" alt="rakib3004"/>
       </a>
       <br />
       <a href="https://github.com/rakib3004">Md. Rakib Trofder</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shakiliitju">
+        <img src="https://avatars2.githubusercontent.com/u/84621547" width="100px;" alt="shakiliitju"/>
+      </a>
+      <br />
+      <a href="https://github.com/shakiliitju">Md. Shakil Hossain</a>
     </td>
     <td align="center">
       <a href="https://github.com/prathimacode-hub">
