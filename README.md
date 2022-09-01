@@ -172,18 +172,18 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
     </td>
     <td align="center">
+      <a href="https://github.com/zyy">
+        <img src="https://avatars2.githubusercontent.com/u/2232814" width="100px;" alt="zyy"/>
+      </a>
+      <br />
+      <a href="https://github.com/zyy">yycoder</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/arjun-ms">
         <img src="https://avatars2.githubusercontent.com/u/64315213" width="100px;" alt="arjun-ms"/>
       </a>
       <br />
       <a href="https://github.com/arjun-ms">Arjun M S </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/VladBluestorm">
-        <img src="https://avatars2.githubusercontent.com/u/84132497" width="100px;" alt="VladBluestorm"/>
-      </a>
-      <br />
-      <a href="https://github.com/VladBluestorm">VladBluestorm</a>
     </td>
   </tr>
 </table>
