@@ -158,6 +158,13 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/Showrin">Showrin Barua</a>
     </td>
     <td align="center">
+      <a href="https://github.com/zyy">
+        <img src="https://avatars2.githubusercontent.com/u/2232814" width="100px;" alt="zyy"/>
+      </a>
+      <br />
+      <a href="https://github.com/zyy">yycoder</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/xSomoy">
         <img src="https://avatars2.githubusercontent.com/u/47719599" width="100px;" alt="xSomoy"/>
       </a>
@@ -170,13 +177,6 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       </a>
       <br />
       <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zyy">
-        <img src="https://avatars2.githubusercontent.com/u/2232814" width="100px;" alt="zyy"/>
-      </a>
-      <br />
-      <a href="https://github.com/zyy">yycoder</a>
     </td>
     <td align="center">
       <a href="https://github.com/arjun-ms">
