@@ -107,6 +107,13 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/AkshatRastogi-1nC0re">AKSHAT RASTOGI</a>
     </td>
     <td align="center">
+      <a href="https://github.com/mwickerson">
+        <img src="https://avatars2.githubusercontent.com/u/51535473" width="100px;" alt="mwickerson"/>
+      </a>
+      <br />
+      <a href="https://github.com/mwickerson">Michael Wickerson</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/m0rp43us">
         <img src="https://avatars2.githubusercontent.com/u/12621034" width="100px;" alt="m0rp43us"/>
       </a>
@@ -127,6 +134,8 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <br />
       <a href="https://github.com/shakiliitju">Md. Shakil Hossain</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/prathimacode-hub">
         <img src="https://avatars2.githubusercontent.com/u/74645302" width="100px;" alt="prathimacode-hub"/>
@@ -134,8 +143,6 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <br />
       <a href="https://github.com/prathimacode-hub">Prathima Kadari</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/DionneNoellaBarretto">
         <img src="https://avatars2.githubusercontent.com/u/16610213" width="100px;" alt="DionneNoellaBarretto"/>
@@ -177,13 +184,6 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       </a>
       <br />
       <a href="https://github.com/xSomoy">John Deadman</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/CojocAdrian">
-        <img src="https://avatars2.githubusercontent.com/u/80144231" width="100px;" alt="CojocAdrian"/>
-      </a>
-      <br />
-      <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
     </td>
   </tr>
 </table>
