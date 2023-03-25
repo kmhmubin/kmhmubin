@@ -179,11 +179,11 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/bograh">Bernard Ograh</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mgmgpyaesonewin">
-        <img src="https://avatars2.githubusercontent.com/u/12793202" width="100px;" alt="mgmgpyaesonewin"/>
+      <a href="https://github.com/informaticacba">
+        <img src="https://avatars2.githubusercontent.com/u/3405747" width="100px;" alt="informaticacba"/>
       </a>
       <br />
-      <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
+      <a href="https://github.com/informaticacba">Alejandro Jesus del Campillo Jaime</a>
     </td>
   </tr>
 </table>
