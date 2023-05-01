@@ -128,20 +128,20 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/DionneNoellaBarretto">Dionne Noella</a>
     </td>
     <td align="center">
+      <a href="https://github.com/smrutil">
+        <img src="https://avatars2.githubusercontent.com/u/2386239" width="100px;" alt="smrutil"/>
+      </a>
+      <br />
+      <a href="https://github.com/smrutil">Smrutiranjan Sahu</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/mariasalvadora">
         <img src="https://avatars2.githubusercontent.com/u/65211240" width="100px;" alt="mariasalvadora"/>
       </a>
       <br />
       <a href="https://github.com/mariasalvadora">Maria</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/arjun-ms">
-        <img src="https://avatars2.githubusercontent.com/u/64315213" width="100px;" alt="arjun-ms"/>
-      </a>
-      <br />
-      <a href="https://github.com/arjun-ms">Arjun M S </a>
     </td>
     <td align="center">
       <a href="https://github.com/Showrin">
@@ -149,6 +149,13 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       </a>
       <br />
       <a href="https://github.com/Showrin">Showrin Barua</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arjun-ms">
+        <img src="https://avatars2.githubusercontent.com/u/64315213" width="100px;" alt="arjun-ms"/>
+      </a>
+      <br />
+      <a href="https://github.com/arjun-ms">Arjun M S </a>
     </td>
     <td align="center">
       <a href="https://github.com/xSomoy">
@@ -177,13 +184,6 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       </a>
       <br />
       <a href="https://github.com/bograh">Bernard Ograh</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/informaticacba">
-        <img src="https://avatars2.githubusercontent.com/u/3405747" width="100px;" alt="informaticacba"/>
-      </a>
-      <br />
-      <a href="https://github.com/informaticacba">Alejandro Jesus del Campillo Jaime</a>
     </td>
   </tr>
 </table>
