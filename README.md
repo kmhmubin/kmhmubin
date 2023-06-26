@@ -100,18 +100,18 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/lucasrmagalhaes">Lucas Magalhães</a>
     </td>
     <td align="center">
-      <a href="https://github.com/m0rp43us">
-        <img src="https://avatars2.githubusercontent.com/u/12621034" width="100px;" alt="m0rp43us"/>
-      </a>
-      <br />
-      <a href="https://github.com/m0rp43us">m0rp43us</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mwickerson">
         <img src="https://avatars2.githubusercontent.com/u/51535473" width="100px;" alt="mwickerson"/>
       </a>
       <br />
       <a href="https://github.com/mwickerson">Michael Wickerson</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/m0rp43us">
+        <img src="https://avatars2.githubusercontent.com/u/12621034" width="100px;" alt="m0rp43us"/>
+      </a>
+      <br />
+      <a href="https://github.com/m0rp43us">m0rp43us</a>
     </td>
     <td align="center">
       <a href="https://github.com/rakib3004">
