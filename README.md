@@ -137,18 +137,18 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/smrutil">
-        <img src="https://avatars2.githubusercontent.com/u/2386239" width="100px;" alt="smrutil"/>
-      </a>
-      <br />
-      <a href="https://github.com/smrutil">Smrutiranjan Sahu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Showrin">
         <img src="https://avatars2.githubusercontent.com/u/28985234" width="100px;" alt="Showrin"/>
       </a>
       <br />
       <a href="https://github.com/Showrin">Showrin Barua</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/smrutil">
+        <img src="https://avatars2.githubusercontent.com/u/2386239" width="100px;" alt="smrutil"/>
+      </a>
+      <br />
+      <a href="https://github.com/smrutil">Smrutiranjan Sahu</a>
     </td>
     <td align="center">
       <a href="https://github.com/mariasalvadora">
@@ -179,11 +179,11 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
     </td>
     <td align="center">
-      <a href="https://github.com/VladBluestorm">
-        <img src="https://avatars2.githubusercontent.com/u/84132497" width="100px;" alt="VladBluestorm"/>
+      <a href="https://github.com/bograh">
+        <img src="https://avatars2.githubusercontent.com/u/69661398" width="100px;" alt="bograh"/>
       </a>
       <br />
-      <a href="https://github.com/VladBluestorm">VladBluestorm</a>
+      <a href="https://github.com/bograh">Bernard Ograh</a>
     </td>
   </tr>
 </table>
