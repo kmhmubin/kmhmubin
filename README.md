@@ -100,13 +100,6 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/lucasrmagalhaes">Lucas Magalhães</a>
     </td>
     <td align="center">
-      <a href="https://github.com/m0rp43us">
-        <img src="https://avatars2.githubusercontent.com/u/12621034" width="100px;" alt="m0rp43us"/>
-      </a>
-      <br />
-      <a href="https://github.com/m0rp43us">m0rp43us</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rakib3004">
         <img src="https://avatars2.githubusercontent.com/u/48678659" width="100px;" alt="rakib3004"/>
       </a>
@@ -134,8 +127,6 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <br />
       <a href="https://github.com/Showrin">Showrin Barua</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/smrutil">
         <img src="https://avatars2.githubusercontent.com/u/2386239" width="100px;" alt="smrutil"/>
@@ -143,6 +134,8 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <br />
       <a href="https://github.com/smrutil">Smrutiranjan Sahu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/mariasalvadora">
         <img src="https://avatars2.githubusercontent.com/u/65211240" width="100px;" alt="mariasalvadora"/>
@@ -184,6 +177,13 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       </a>
       <br />
       <a href="https://github.com/VladBluestorm">VladBluestorm</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/informaticacba">
+        <img src="https://avatars2.githubusercontent.com/u/3405747" width="100px;" alt="informaticacba"/>
+      </a>
+      <br />
+      <a href="https://github.com/informaticacba">Alejandro Jesus del Campillo Jaime</a>
     </td>
   </tr>
 </table>
