@@ -121,18 +121,18 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/DionneNoellaBarretto">Dionne Noella</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Showrin">
-        <img src="https://avatars2.githubusercontent.com/u/28985234" width="100px;" alt="Showrin"/>
-      </a>
-      <br />
-      <a href="https://github.com/Showrin">Showrin Barua</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/arjun-ms">
         <img src="https://avatars2.githubusercontent.com/u/64315213" width="100px;" alt="arjun-ms"/>
       </a>
       <br />
       <a href="https://github.com/arjun-ms">Arjun M S </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Showrin">
+        <img src="https://avatars2.githubusercontent.com/u/28985234" width="100px;" alt="Showrin"/>
+      </a>
+      <br />
+      <a href="https://github.com/Showrin">Showrin Barua</a>
     </td>
   </tr>
   <tr>
