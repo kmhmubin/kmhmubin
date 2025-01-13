@@ -100,18 +100,18 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/Magicianred">Simone Paolucci</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lucasrmagalhaes">
-        <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>
-      </a>
-      <br />
-      <a href="https://github.com/lucasrmagalhaes">Lucas Magalhães</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/standardgalactic">
         <img src="https://avatars2.githubusercontent.com/u/43516554" width="100px;" alt="standardgalactic"/>
       </a>
       <br />
       <a href="https://github.com/standardgalactic">Cogito Ergo Sum</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lucasrmagalhaes">
+        <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>
+      </a>
+      <br />
+      <a href="https://github.com/lucasrmagalhaes">Lucas Magalhães</a>
     </td>
     <td align="center">
       <a href="https://github.com/mwickerson">
