@@ -151,13 +151,6 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/DionneNoellaBarretto">Dionne Noella</a>
     </td>
     <td align="center">
-      <a href="https://github.com/happylucktoday">
-        <img src="https://avatars2.githubusercontent.com/u/166789813" width="100px;" alt="happylucktoday"/>
-      </a>
-      <br />
-      <a href="https://github.com/happylucktoday">HappyLuckToday</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/smrjans">
         <img src="https://avatars2.githubusercontent.com/u/2386239" width="100px;" alt="smrjans"/>
       </a>
@@ -184,6 +177,13 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       </a>
       <br />
       <a href="https://github.com/Showrin">Showrin Barua</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mariasalvadora">
+        <img src="https://avatars2.githubusercontent.com/u/65211240" width="100px;" alt="mariasalvadora"/>
+      </a>
+      <br />
+      <a href="https://github.com/mariasalvadora">Maria</a>
     </td>
   </tr>
 </table>
