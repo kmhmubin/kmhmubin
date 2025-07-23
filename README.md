@@ -172,18 +172,18 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/mariasalvadora">Maria</a>
     </td>
     <td align="center">
-      <a href="https://github.com/xSomoy">
-        <img src="https://avatars2.githubusercontent.com/u/47719599" width="100px;" alt="xSomoy"/>
-      </a>
-      <br />
-      <a href="https://github.com/xSomoy">TENET</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CojocAdrian">
         <img src="https://avatars2.githubusercontent.com/u/80144231" width="100px;" alt="CojocAdrian"/>
       </a>
       <br />
       <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xSomoy">
+        <img src="https://avatars2.githubusercontent.com/u/47719599" width="100px;" alt="xSomoy"/>
+      </a>
+      <br />
+      <a href="https://github.com/xSomoy">TENET</a>
     </td>
   </tr>
 </table>
