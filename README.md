@@ -121,11 +121,11 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/shakiliitju">Md. Shakil Hossain</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rakib3004">
-        <img src="https://avatars2.githubusercontent.com/u/48678659" width="100px;" alt="rakib3004"/>
+      <a href="https://github.com/mdrakibtrofder">
+        <img src="https://avatars2.githubusercontent.com/u/48678659" width="100px;" alt="mdrakibtrofder"/>
       </a>
       <br />
-      <a href="https://github.com/rakib3004">Md. Rakib Trofder</a>
+      <a href="https://github.com/mdrakibtrofder">Md. Rakib Trofder</a>
     </td>
     <td align="center">
       <a href="https://github.com/prathimacode-hub">
