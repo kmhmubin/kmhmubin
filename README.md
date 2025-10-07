@@ -179,11 +179,11 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/informaticacba">Alejandro Jesus del Campillo Jaime</a>
     </td>
     <td align="center">
-      <a href="https://github.com/CojocAdrian">
-        <img src="https://avatars2.githubusercontent.com/u/80144231" width="100px;" alt="CojocAdrian"/>
+      <a href="https://github.com/VladBluestorm">
+        <img src="https://avatars2.githubusercontent.com/u/84132497" width="100px;" alt="VladBluestorm"/>
       </a>
       <br />
-      <a href="https://github.com/CojocAdrian">Cojoc Adrian </a>
+      <a href="https://github.com/VladBluestorm">VladBluestorm</a>
     </td>
   </tr>
 </table>
