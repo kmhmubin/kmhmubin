@@ -144,18 +144,18 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/DionneNoellaBarretto">Dionne Noella</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bograh">
-        <img src="https://avatars2.githubusercontent.com/u/69661398" width="100px;" alt="bograh"/>
-      </a>
-      <br />
-      <a href="https://github.com/bograh">Bernard Ograh</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/smrjans">
         <img src="https://avatars2.githubusercontent.com/u/2386239" width="100px;" alt="smrjans"/>
       </a>
       <br />
       <a href="https://github.com/smrjans">Smrutiranjan Sahu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bograh">
+        <img src="https://avatars2.githubusercontent.com/u/69661398" width="100px;" alt="bograh"/>
+      </a>
+      <br />
+      <a href="https://github.com/bograh">Bernard Ograh</a>
     </td>
     <td align="center">
       <a href="https://github.com/arjun-ms">
@@ -172,18 +172,18 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/mariasalvadora">Maria</a>
     </td>
     <td align="center">
-      <a href="https://github.com/TDFS-Dom">
-        <img src="https://avatars2.githubusercontent.com/u/12974761" width="100px;" alt="TDFS-Dom"/>
-      </a>
-      <br />
-      <a href="https://github.com/TDFS-Dom">Nguyễn Hữu Toàn</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/informaticacba">
         <img src="https://avatars2.githubusercontent.com/u/3405747" width="100px;" alt="informaticacba"/>
       </a>
       <br />
       <a href="https://github.com/informaticacba">Alejandro Jesus del Campillo Jaime</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/VladBluestorm">
+        <img src="https://avatars2.githubusercontent.com/u/84132497" width="100px;" alt="VladBluestorm"/>
+      </a>
+      <br />
+      <a href="https://github.com/VladBluestorm">VladBluestorm</a>
     </td>
   </tr>
 </table>
