@@ -86,6 +86,13 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/IDouble">
+        <img src="https://avatars2.githubusercontent.com/u/18186995" width="100px;" alt="IDouble"/>
+      </a>
+      <br />
+      <a href="https://github.com/IDouble">Alp ₿📈🚀🌕</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/standardgalactic">
         <img src="https://avatars2.githubusercontent.com/u/43516554" width="100px;" alt="standardgalactic"/>
       </a>
@@ -127,6 +134,8 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <br />
       <a href="https://github.com/mdrakibtrofder">Md. Rakib Trofder</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/prathimacode-hub">
         <img src="https://avatars2.githubusercontent.com/u/74645302" width="100px;" alt="prathimacode-hub"/>
@@ -134,8 +143,6 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <br />
       <a href="https://github.com/prathimacode-hub">Prathima Kadari</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/DionneNoellaBarretto">
         <img src="https://avatars2.githubusercontent.com/u/16610213" width="100px;" alt="DionneNoellaBarretto"/>
@@ -177,13 +184,6 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       </a>
       <br />
       <a href="https://github.com/informaticacba">Alejandro Jesus del Campillo Jaime</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/VladBluestorm">
-        <img src="https://avatars2.githubusercontent.com/u/84132497" width="100px;" alt="VladBluestorm"/>
-      </a>
-      <br />
-      <a href="https://github.com/VladBluestorm">VladBluestorm</a>
     </td>
   </tr>
 </table>
