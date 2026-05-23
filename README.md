@@ -151,18 +151,18 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/DionneNoellaBarretto">Dionne Noella</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bograh">
-        <img src="https://avatars2.githubusercontent.com/u/69661398" width="100px;" alt="bograh"/>
-      </a>
-      <br />
-      <a href="https://github.com/bograh">Bernard Ograh</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/smrjans">
         <img src="https://avatars2.githubusercontent.com/u/2386239" width="100px;" alt="smrjans"/>
       </a>
       <br />
       <a href="https://github.com/smrjans">Smrutiranjan Sahu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bograh">
+        <img src="https://avatars2.githubusercontent.com/u/69661398" width="100px;" alt="bograh"/>
+      </a>
+      <br />
+      <a href="https://github.com/bograh">Bernard Ograh</a>
     </td>
     <td align="center">
       <a href="https://github.com/arjun-ms">
@@ -179,11 +179,11 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
       <a href="https://github.com/mariasalvadora">Maria</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mayannaoliveira">
-        <img src="https://avatars2.githubusercontent.com/u/8138985" width="100px;" alt="mayannaoliveira"/>
+      <a href="https://github.com/informaticacba">
+        <img src="https://avatars2.githubusercontent.com/u/3405747" width="100px;" alt="informaticacba"/>
       </a>
       <br />
-      <a href="https://github.com/mayannaoliveira">Mayanna Oliveira</a>
+      <a href="https://github.com/informaticacba">Alejandro Jesus del Campillo Jaime</a>
     </td>
   </tr>
 </table>
